@@ -1,4 +1,6 @@
-##Chlogen Podcast Player##
+Chlogen Podcast Player
+
+Depends on: VLC media player and wget (both for Linux)
 
 Chlogen is a command-line podcast player and a downloader. Works perfectly with Linux. Forks are welcome to make it work with other platforms.
 
